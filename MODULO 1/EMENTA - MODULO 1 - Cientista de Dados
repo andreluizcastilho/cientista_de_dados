@@ -1,0 +1,163 @@
+
+2023-4A - Bootcamp - Cientista de Dados
+
+Plano de ensino do Módulo 1 | Fundamentos de estatística e aprendizado de máquina
+
+**********
+	Capítulo 1. Introdução à discplina
+
+		1.1. Introdução à Disciplina
+		https://youtu.be/YQOyUSL-20k?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		1.2. Medidas de centralidade e dispersão
+		https://youtu.be/hNQkGslLmkc?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		1.3. Análise de Dados Através de Gráficos
+		https://youtu.be/ocBK29TO8Oc?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		1.4. A ferramenta R
+		https://youtu.be/TE9zeNfO36A?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		1.5. Estatística Computacional – Análise Exploratória de Dados com R
+		https://youtu.be/CpxdSn4ojCI?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+	 
+**********
+	Capítulo 2. Leis de Probabilidade e Diretrizes para sua Aplicação
+
+		2.1. Leis de Probabilidade e Diretrizes para sua Aplicação
+		https://youtu.be/XyMYhKtXeqk?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		2.2. Variáveis aleatórias e Distribuições de probabilidades discretas
+		https://youtu.be/uvcHjebz1Fk?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		2.3. Variáveis aleatórias e Distribuições de probabilidade contínuas
+		https://youtu.be/YTcU1Lx77tw?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		2.4. Estatística Computacional – Probabilidades com R
+		https://youtu.be/yS5ijC3pxx8?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+	 
+**********
+	Capítulo 3. Intervalo de Confiança
+
+		3.1. Intervalos de confiança
+		https://youtu.be/PlzQPmzOigg?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		3.2. Intervalo de confiança para média
+		https://youtu.be/K353PYUMqlo?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		3.3. Intervalo de confiança para proporção
+		https://youtu.be/lG8aaAD4aEA?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		3.4. Intervalo de confiança por Bootstrap
+		https://youtu.be/2GPaebdFpvw?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		3.5. Estatística Computacional - Intervalos de Confiança com o R
+		https://youtu.be/FAGRjUgERMU?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+	 
+**********
+	Capítulo 4. Teste de Hipótese 
+
+
+		4.1. Teste de hipóteses
+		https://youtu.be/LInihCxzY38?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		4.2. Avaliando a normalidade de uma variável aleatória
+		https://youtu.be/3kh93Fm2GKI?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		4.3. Teste T para diferença de médias em duas amostras independentes
+		https://youtu.be/q_8FIRIlXCs?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		4.4. Teste T para diferença de médias em duas amostras dependentes
+		https://youtu.be/7BHOnLHrbCM?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+
+		========================
+		
+		4.5. Teste Qui-Quadrado para associação entre variáveis categóricas
+		https://youtu.be/ZQUgX7SrXFo?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		4.6. Teste F para Anova
+		https://youtu.be/2W4l9fx86cc?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		4.7.1. Estatística Computacional: Teste de Hipótese com o R - Parte I
+		https://youtu.be/_EJMtJf2ISs?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+		4.7.2. Estatística Computacional: Teste de Hipótese com o R - Parte II
+		https://youtu.be/9W2mbD2DNS8?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+		
+
+	 
+**********
+	Capítulo 5. Regressão Linear e correlação
+
+		5.1. Regressão linear e correlação
+		https://youtu.be/elForrOBG54?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		5.2. Regressão Linear Múltipla
+		https://youtu.be/_TBF-3rnlVQ?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		5.3. Utilizando variáveis categóricas em um modelo de regressão linear
+		https://youtu.be/9qR-7qgb5V4?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		5.4. Explicação vs Predição
+		https://youtu.be/hihLOVMCdVs?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		5.5. Diagnóstico do ajuste do modelo de regressão linear
+		https://youtu.be/-FxJfryKW8M?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		5.6. Algoritmo Stepwise para seleção de preditoras
+		https://youtu.be/n1ItHtnt82U?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		5.7. Estatística Computacional – Regressão Linear com o R
+		https://youtu.be/HkkN33PMdFM?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+
+ 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Primeira Aula Interativa
+Trabalho Prático do Módulo 1
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ 
+ 
+**********
+	Capítulo 6. Regressão Logística
+
+		6.1. Classificação binária e interpretação dos coeficientes
+		https://youtu.be/N0oggMu0RPA?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		6.2. Realizando predição com a Regressão logística
+		https://youtu.be/xe6g9xuBhac?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		6.3. Avaliando a capacidade preditiva
+		https://youtu.be/Rxi9TagrBRo?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		6.4. Análise de sensibilidade e especificidade
+		https://youtu.be/LWlYCVdMK-s?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+		6.5. Regressão logística com R
+		https://youtu.be/QhlGRpq7yHA?list=PLqPPg1-6FvSsn_bw5OBuP6zi3BjAKFoFd
+
+ 
+ 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+
+Segunda Aula Interativa
+Desafio do módulo 1
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
